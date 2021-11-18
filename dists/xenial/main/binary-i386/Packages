@@ -1,0 +1,35 @@
+Package: zabbix-agent-lm-sensors
+Version: 0.5.0-1
+Maintainer: Dmitrii Dmitriev <github@d1c.ru>
+Architecture: all
+Priority: optional
+Section: net
+Filename: pool/main/z/zabbix-agent-lm-sensors/zabbix-agent-lm-sensors_0.5.0-1_all.deb
+Size: 7904
+SHA256: 0be7f440ba9ddc07d53ead1e4a1f236b3af396a22c677f0112bbec93dc1a7869
+SHA1: d163ec6b0030f26092711c141704c175e2392eaf
+MD5sum: 67d926e8be9ba4a47b64ed440e9793d1
+Description: Autodiscovery and read lm-sensors to Zabbix Agent.
+ Autodiscovery all existing lm-sersors and read they values by
+ python scripts to Zabbix Agent.
+Depends: zabbix-agent (>=4.0), lm-sensors (>=3.6), python3 (>=3.6), debconf (>=1.5)
+Installed-Size: 68
+Origin: https://dimdim1177.github.io/zabbix-sensors
+
+Package: zabbix-server-lm-sensors
+Version: 0.5.0-1
+Maintainer: Dmitrii Dmitriev <github@d1c.ru>
+Architecture: all
+Priority: optional
+Section: net
+Filename: pool/main/z/zabbix-server-lm-sensors/zabbix-server-lm-sensors_0.5.0-1_all.deb
+Size: 3596
+SHA256: f6efdfdec149f4ee5d71c8be33e15fbdc41ec8bd62df0473f34b70930a91af16
+SHA1: 2639520442a570e181065e395f31039983e0e88d
+MD5sum: c257c62b191189d33fac31149bdfbccf
+Description: Templates for autocreating lm-sensors in Zabbix Server.
+ Package contains only XML templates for Zabbix Server for autocreating sensors
+ autodiscovered by zabbix-agent-lm-sensors package.
+Installed-Size: 56
+Origin: https://dimdim1177.github.io/zabbix-sensors
+

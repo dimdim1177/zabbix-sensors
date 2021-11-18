@@ -1,0 +1,6 @@
+Version: 11
+Component: main
+Origin: https://github.com/dimdim1177/zabbix-sensors
+Architecture: i386
+Description: Autodiscovery and read sensor values by python scripts to Zabbix Agent.
+And Templates for Zabbix Server for autocreating elements, triggers, graphs for all discovered sensors.

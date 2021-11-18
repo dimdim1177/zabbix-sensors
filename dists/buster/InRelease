@@ -1,0 +1,70 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: https://github.com/dimdim1177/zabbix-sensors
+Codename: buster
+Version: 10
+Date: Thu, 18 Nov 2021 20:39:50 UTC
+Architectures: amd64 i386
+Components: main
+Description: Autodiscovery and read sensor values by python scripts to Zabbix Agent.
+And Templates for Zabbix Server for autocreating elements, triggers, graphs for all discovered sensors.
+MD5Sum:
+ ab2c84dfba247c19a291d216a896762f 1398 main/binary-amd64/Packages
+ 26ba3e370b2506f99138e68cc07cb217 654 main/binary-amd64/Packages.gz
+ f8b3cccedb5c691c7e02f8041494bc76 750 main/binary-amd64/Packages.bz2
+ ddbadcf3ee406bcdcca508b3a96ca6cb 290 main/binary-amd64/Release
+ ab2c84dfba247c19a291d216a896762f 1398 main/binary-i386/Packages
+ 26ba3e370b2506f99138e68cc07cb217 654 main/binary-i386/Packages.gz
+ f8b3cccedb5c691c7e02f8041494bc76 750 main/binary-i386/Packages.bz2
+ 51c7b39017e5115a44179443973218bf 289 main/binary-i386/Release
+ b03240317c7df8a96e55a85eef5e29fc 687 main/Contents-amd64
+ e627ba1b0c4e12e9a69c5707c08444da 183 main/Contents-amd64.gz
+ 35587b6a38c36dd1a4c7f9f0bf122f1f 239 main/Contents-amd64.bz2
+ b03240317c7df8a96e55a85eef5e29fc 687 main/Contents-i386
+ e627ba1b0c4e12e9a69c5707c08444da 183 main/Contents-i386.gz
+ 35587b6a38c36dd1a4c7f9f0bf122f1f 239 main/Contents-i386.bz2
+SHA1:
+ eb7d2ddc27cd68d24f5237b81cb2e8feea6c4c72 1398 main/binary-amd64/Packages
+ 6f73aa2d49364786851a74651b72cc482b9e8768 654 main/binary-amd64/Packages.gz
+ 4a6ca9ce67b2f5c6864df97fea669effe4cd5b1b 750 main/binary-amd64/Packages.bz2
+ bdcdfc986230d5c1f2a6c06771db99608243952d 290 main/binary-amd64/Release
+ eb7d2ddc27cd68d24f5237b81cb2e8feea6c4c72 1398 main/binary-i386/Packages
+ 6f73aa2d49364786851a74651b72cc482b9e8768 654 main/binary-i386/Packages.gz
+ 4a6ca9ce67b2f5c6864df97fea669effe4cd5b1b 750 main/binary-i386/Packages.bz2
+ c75dadadfb525c8454d447241ae41a568e68421b 289 main/binary-i386/Release
+ 7b827e9f426337c23e60dd9c7911884dc3c0dbe7 687 main/Contents-amd64
+ 6aab847bcbce0f7f9897673fe20b10d2f6516334 183 main/Contents-amd64.gz
+ 9a0308867fc1685e55ccc311e352f61d537fea22 239 main/Contents-amd64.bz2
+ 7b827e9f426337c23e60dd9c7911884dc3c0dbe7 687 main/Contents-i386
+ 6aab847bcbce0f7f9897673fe20b10d2f6516334 183 main/Contents-i386.gz
+ 9a0308867fc1685e55ccc311e352f61d537fea22 239 main/Contents-i386.bz2
+SHA256:
+ 289f58f299eeac31215f726c608d42f35a211efb065528c7abcf58c73a8d622b 1398 main/binary-amd64/Packages
+ 5e802c147336ae461dc7d866056e2fd772a6e8bfdb1dec13514c0ac85099fa7d 654 main/binary-amd64/Packages.gz
+ b74ab76a6686383b9eaeb4664e57fb564a8d4a087532edc27e19308f33f51b8c 750 main/binary-amd64/Packages.bz2
+ ed704f956a056de914a8345bcd8fa7ad09034063a20652066258cd853fe66816 290 main/binary-amd64/Release
+ 289f58f299eeac31215f726c608d42f35a211efb065528c7abcf58c73a8d622b 1398 main/binary-i386/Packages
+ 5e802c147336ae461dc7d866056e2fd772a6e8bfdb1dec13514c0ac85099fa7d 654 main/binary-i386/Packages.gz
+ b74ab76a6686383b9eaeb4664e57fb564a8d4a087532edc27e19308f33f51b8c 750 main/binary-i386/Packages.bz2
+ 1e958eda745a389ac05283a1580aa6e10230174b766b41f209a651e41cda145c 289 main/binary-i386/Release
+ e286b39deaca30d06c8a02c0f68a068f9c378c7203e626df91a1dba3304e7034 687 main/Contents-amd64
+ a504f36068857f974e56538c459dec73948465502b6829e354304f6dcefca824 183 main/Contents-amd64.gz
+ d739690baa1bf8183e76f9bc05752bab4c6077fd4ee38a47e3f8218ddffaf53d 239 main/Contents-amd64.bz2
+ e286b39deaca30d06c8a02c0f68a068f9c378c7203e626df91a1dba3304e7034 687 main/Contents-i386
+ a504f36068857f974e56538c459dec73948465502b6829e354304f6dcefca824 183 main/Contents-i386.gz
+ d739690baa1bf8183e76f9bc05752bab4c6077fd4ee38a47e3f8218ddffaf53d 239 main/Contents-i386.bz2
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEtUWT2iqf/RT3eKPHhzL8L+HWJ4AFAmGWuhYACgkQhzL8L+HW
+J4B84Qv/TUV1a0lBlUAIjIeAGVSSyB9A1S81C2YVF8C87HiIQWZUdyBeuzFoXjk9
+MQl6GE0CYBxle4BZG3qW2PUD8pUvF5LLIz/TOY1w5p7WG1mEqwaIeaQ/ouNVdS5Q
+DzhmJceB7Aq/vQbhjgBVfetDq55uSVKgPc1tIOUeTXDyj6rldkTlXvdZo6addsbW
+6qV2yNAu/ICLL9i/dbl+xlraRfRwlsGK1EA65wtQk/o9/nNgAzg5JAehjF1cf+QZ
+/B8p0Iof84p3WY4GLo68mduC7d1RXs9yd9pH8b0PcfRssd1gGa9Tu0BWpI9qAWes
+cikPtrx8zCpXt4MuwX7zCkSpeIO53mtHfEqJeoY3s/DyA8luSnsNXfZDaZIpXa4m
+qw7XowtcgDSxWBmjfsfrne9Pe7QSIYJYuiwJzeG8SxuFQ9n6Hhc8snKsyzHwVzFV
+P7+b9C9fl4ayOt6VDA5c8ZdrPMFVTkL+uY1e+ZAVoAq/nYKuBdnaH2bgdN/NkpG3
+aGZ3Ui/1
+=r6T4
+-----END PGP SIGNATURE-----

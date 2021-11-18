@@ -1,0 +1,70 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: https://github.com/dimdim1177/zabbix-sensors
+Codename: impish
+Version: 21.10
+Date: Thu, 18 Nov 2021 20:39:54 UTC
+Architectures: amd64 i386
+Components: main
+Description: Autodiscovery and read sensor values by python scripts to Zabbix Agent.
+And Templates for Zabbix Server for autocreating elements, triggers, graphs for all discovered sensors.
+MD5Sum:
+ ab2c84dfba247c19a291d216a896762f 1398 main/binary-amd64/Packages
+ 26ba3e370b2506f99138e68cc07cb217 654 main/binary-amd64/Packages.gz
+ f8b3cccedb5c691c7e02f8041494bc76 750 main/binary-amd64/Packages.bz2
+ 135d8f32498e8cd00a7df00ef96ff512 293 main/binary-amd64/Release
+ ab2c84dfba247c19a291d216a896762f 1398 main/binary-i386/Packages
+ 26ba3e370b2506f99138e68cc07cb217 654 main/binary-i386/Packages.gz
+ f8b3cccedb5c691c7e02f8041494bc76 750 main/binary-i386/Packages.bz2
+ b4e01a68424cb0c3526f2867cd8b60d3 292 main/binary-i386/Release
+ b03240317c7df8a96e55a85eef5e29fc 687 main/Contents-amd64
+ e627ba1b0c4e12e9a69c5707c08444da 183 main/Contents-amd64.gz
+ 35587b6a38c36dd1a4c7f9f0bf122f1f 239 main/Contents-amd64.bz2
+ b03240317c7df8a96e55a85eef5e29fc 687 main/Contents-i386
+ e627ba1b0c4e12e9a69c5707c08444da 183 main/Contents-i386.gz
+ 35587b6a38c36dd1a4c7f9f0bf122f1f 239 main/Contents-i386.bz2
+SHA1:
+ eb7d2ddc27cd68d24f5237b81cb2e8feea6c4c72 1398 main/binary-amd64/Packages
+ 6f73aa2d49364786851a74651b72cc482b9e8768 654 main/binary-amd64/Packages.gz
+ 4a6ca9ce67b2f5c6864df97fea669effe4cd5b1b 750 main/binary-amd64/Packages.bz2
+ 8c08e291778380ed2ca92c95e17fa175fd82b1eb 293 main/binary-amd64/Release
+ eb7d2ddc27cd68d24f5237b81cb2e8feea6c4c72 1398 main/binary-i386/Packages
+ 6f73aa2d49364786851a74651b72cc482b9e8768 654 main/binary-i386/Packages.gz
+ 4a6ca9ce67b2f5c6864df97fea669effe4cd5b1b 750 main/binary-i386/Packages.bz2
+ d2f6a054649aedaeb4564ea951533fbbdf2a9de2 292 main/binary-i386/Release
+ 7b827e9f426337c23e60dd9c7911884dc3c0dbe7 687 main/Contents-amd64
+ 6aab847bcbce0f7f9897673fe20b10d2f6516334 183 main/Contents-amd64.gz
+ 9a0308867fc1685e55ccc311e352f61d537fea22 239 main/Contents-amd64.bz2
+ 7b827e9f426337c23e60dd9c7911884dc3c0dbe7 687 main/Contents-i386
+ 6aab847bcbce0f7f9897673fe20b10d2f6516334 183 main/Contents-i386.gz
+ 9a0308867fc1685e55ccc311e352f61d537fea22 239 main/Contents-i386.bz2
+SHA256:
+ 289f58f299eeac31215f726c608d42f35a211efb065528c7abcf58c73a8d622b 1398 main/binary-amd64/Packages
+ 5e802c147336ae461dc7d866056e2fd772a6e8bfdb1dec13514c0ac85099fa7d 654 main/binary-amd64/Packages.gz
+ b74ab76a6686383b9eaeb4664e57fb564a8d4a087532edc27e19308f33f51b8c 750 main/binary-amd64/Packages.bz2
+ a4af8ea2609b26cefd0332397526898b51db521e17eec3059f6d3cc94ca86d1e 293 main/binary-amd64/Release
+ 289f58f299eeac31215f726c608d42f35a211efb065528c7abcf58c73a8d622b 1398 main/binary-i386/Packages
+ 5e802c147336ae461dc7d866056e2fd772a6e8bfdb1dec13514c0ac85099fa7d 654 main/binary-i386/Packages.gz
+ b74ab76a6686383b9eaeb4664e57fb564a8d4a087532edc27e19308f33f51b8c 750 main/binary-i386/Packages.bz2
+ eda5e07c7048075f2e27110b7c1c6194d25d29241e9a875d6c3217943a7c3617 292 main/binary-i386/Release
+ e286b39deaca30d06c8a02c0f68a068f9c378c7203e626df91a1dba3304e7034 687 main/Contents-amd64
+ a504f36068857f974e56538c459dec73948465502b6829e354304f6dcefca824 183 main/Contents-amd64.gz
+ d739690baa1bf8183e76f9bc05752bab4c6077fd4ee38a47e3f8218ddffaf53d 239 main/Contents-amd64.bz2
+ e286b39deaca30d06c8a02c0f68a068f9c378c7203e626df91a1dba3304e7034 687 main/Contents-i386
+ a504f36068857f974e56538c459dec73948465502b6829e354304f6dcefca824 183 main/Contents-i386.gz
+ d739690baa1bf8183e76f9bc05752bab4c6077fd4ee38a47e3f8218ddffaf53d 239 main/Contents-i386.bz2
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEtUWT2iqf/RT3eKPHhzL8L+HWJ4AFAmGWuhoACgkQhzL8L+HW
+J4Boswv+NhpsroDia6DAek5xg0k6ixldDT1XST30K4/aGYq/1P6LXmYLR9d4NvFQ
+rCvnTjUMm2oHfh1mrSnvTlGtHSa9Ql6s48XohkcxukZy7ICD8OtTp5vofd45NEgO
+eTFYU+k6Xl/Gb+OKpEU2CNhmLixcAJYByFGMfc7+w/hjKUuMRilUujSZxxf/e40T
+6vWaSD5VXScnMydvmrdBH5BlFfrDsgC4AYoX0O9jA13eyrSt6CXRy0oydCSBc0cL
+jmGnZtvsXAE5g1SqfLfwljpqm42+TwUV/V4y1jZd/BvKVWSaaK/t7GCwMOhkGZgz
+DE6ULEQONAliXtLQ/7Q6eEa0vHF+C2qcQEMc9KyvLR1UcQ0ndwDoFLgCTej4Q6O2
+9yL+eWNzrkyKrnEuOD9q7ZDacyCGDulF93jbIy0o6UiFFK7duPJDPZ09zm5CCABU
+pp+HRPL69SwvbRrDGIvRiWVr3t4XD/8J2US3ue9+cYdkbeln7Rk4gyOyhDoaWak1
+kgjRDc9j
+=Dw7k
+-----END PGP SIGNATURE-----

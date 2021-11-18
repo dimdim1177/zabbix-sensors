@@ -1,0 +1,8 @@
+etc/zabbix/zabbix_agentd.d/userparameter_lm_sensors.conf	    net/zabbix-agent-lm-sensors
+usr/bin/zabbix-agent-lm-sensors	    net/zabbix-agent-lm-sensors
+usr/share/doc/zabbix-agent-lm-sensors/changelog.Debian.gz	    net/zabbix-agent-lm-sensors
+usr/share/doc/zabbix-agent-lm-sensors/copyright	    net/zabbix-agent-lm-sensors
+usr/share/doc/zabbix-server-lm-sensors/changelog.Debian.gz	    net/zabbix-server-lm-sensors
+usr/share/doc/zabbix-server-lm-sensors/copyright	    net/zabbix-server-lm-sensors
+usr/share/zabbix-server-lm-sensors/Template LM Sensors EN.xml	    net/zabbix-server-lm-sensors
+usr/share/zabbix-server-lm-sensors/Template LM Sensors RU.xml	    net/zabbix-server-lm-sensors
